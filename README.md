@@ -13,7 +13,7 @@
   <hr/>
    <li>Ужин </li>
   <hr/>
-    <img src="https://sun9-17.userapi.com/Kn9Sj3f8sNZVIgwUbw6jIhkn88uuNR4SJCoJRA/Y8GGbxRJ4zI.jpg"/>
+    <img src="https://sun9-70.userapi.com/QqSqt0RFO-mQXIY-Lz6oD0SXuVZkFSrqNiXXQA/QRymb285QW4.jpg"/>
   <hr/>
   <li>Показывать упражнения, на все группы мышц(весь выбор нужного упражнения можно написать самостоятельно, так и нажать на кнопку</li>
   <hr/>
