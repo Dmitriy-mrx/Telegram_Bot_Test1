@@ -28,7 +28,7 @@
   <img src="https://sun9-10.userapi.com/oEStKDpQIaTLst7bE1dLKmeVR3T3p17Mvhk1mw/QqLqWjBo-OQ.jpg"/>
 <li>При нажатии на кнопу /help  бот расскажет о соих командах, а так же покажет выбор анимаций на разные группы мышц </li>
   <hr/>
-<img src=""https://sun9-54.userapi.com/oPCw_pg6jiu6idfpkYIRN-RM-8PxofyOZiaBuA/U6fMmXlXG8Q.jpg/>
+<img src=""https://sun9-54.userapi.com/oPCw_pg6jiu6idfpkYIRN-RM-8PxofyOZiaBuA/U6fMmXlXG8Q.jpg"/>
 <li>Выбираем группу мышц </li>
   <hr/>
 <img src="https://sun9-22.userapi.com/fepzCPe5xdVBXPjieo3WQ5HO9wV7xZyhXEO-MA/hPXg-0huezo.jpg"/>
