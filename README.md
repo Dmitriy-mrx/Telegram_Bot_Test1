@@ -13,11 +13,11 @@
   <hr/>
    <li>Ужин </li>
   <hr/>
-    <img src="https://sun9-70.userapi.com/QqSqt0RFO-mQXIY-Lz6oD0SXuVZkFSrqNiXXQA/QRymb285QW4.jpg"/>
+    <img src="https://sun9-57.userapi.com/wyzmZzqEitfY9hHWo9LCvu8ZkgpDs3tL4Gn4rA/Sv94h2p57vo.jpg"/>
   <hr/>
   <li>Показывать упражнения, на все группы мышц(весь выбор нужного упражнения можно написать самостоятельно, так и нажать на кнопку</li>
   <hr/>
-    <img src="https://sun9-41.userapi.com/3Hpyv8Hbkaowc_0ldZYujhln22eUcplX8dbtbw/hX7lYhFnumc.jpg"/>
+    <img src="https://sun9-70.userapi.com/QqSqt0RFO-mQXIY-Lz6oD0SXuVZkFSrqNiXXQA/QRymb285QW4.jpg"/>
   <hr/>
   <li>При нажатии на определенную группы мышц, бот выдаёт нам картинку, или если эта группа мышц включает в себя доп. мышцы он дает выбор, что именно Вам нужно.</li>
   <hr/>
